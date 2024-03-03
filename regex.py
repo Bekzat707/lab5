@@ -147,3 +147,5 @@ if __name__ == "__main__":
     print("Snake case string:", snake_case_output)
 
 f.close()
+
+f.close()
